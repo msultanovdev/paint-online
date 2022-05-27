@@ -7,4 +7,4 @@ Comands to lauch the project.
 3. npm run dev
 4. cd ../client
 5. npm i
-6. npm start"# paint-online" 
+6. npm start
